@@ -16,7 +16,7 @@ This project is a fully responsive, static website designed to showcase my journ
 
 Since this is a lightweight, static website, there is no need for complex terminal setups, server installations, or database configurations. You can run it instantly on your machine:
 
-1. **Download the project** (or clone it using `git clone`).
+1. **Download the project folder** (or clone it using `git clone`).
 2. **Open the folder** on your computer.
 3. **Double-click `index.html`** to launch the site instantly in your favorite web browser!
 
@@ -28,4 +28,6 @@ Since this is a lightweight, static website, there is no need for complex termin
 * **Smooth Navigation:** Easy-to-use layout that lets visitors browse my portfolio and contact info seamlessly.
 * **Clean Codebase:** Written with clean, readable code—perfect for learning, tweaking, or expanding in the future.
 * **Professional Theme & Design** Responsive side menu and buttons along with a sliding "contact" me drawer button.
-* **Contact me form** simulated form submission for enquiries, interactive and visually appealing. 
+* **Contact me form** simulated form submission for enquiries, interactive and visually appealing.
+
+**⚠️ Note:** Ensure to download the **folder** not the individual files. They only exist on the front page for presentational purposes. Without the required assets the page will not load or operate properly.
