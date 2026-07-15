@@ -26,8 +26,8 @@ Since this is a lightweight, static website, there is no need for complex termin
 
 * **Responsive Design:** Fully optimized to look great on desktops, tablets, and mobile screens.
 * **Smooth Navigation:** Easy-to-use layout that lets visitors browse my portfolio and contact info seamlessly.
-* **Clean Codebase:** Written with clean, readable code—perfect for learning, tweaking, or expanding in the future.
-* **Professional Theme & Design** Responsive side menu and buttons along with a sliding "contact" me drawer button.
-* **Contact me form** simulated form submission for enquiries, interactive and visually appealing.
+* **Clean Codebase:** Written with clean, readable code - perfect for learning, tweaking, or expanding in the future.
+* **Professional Theme & Design**: Responsive side menu and buttons along with a sliding "contact" me drawer button.
+* **Contact me form**: simulated form submission for enquiries, interactive and visually appealing.
 
 **⚠️ Note:** Ensure to download the **folder** not the individual files. They only exist on the front page for presentational purposes. Without the required assets the page will not load or operate properly.
